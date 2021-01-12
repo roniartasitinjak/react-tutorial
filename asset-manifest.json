@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/roniartasitinjak/react-tutorial/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/roniartasitinjak/react-tutorial/static/js/main.d0bc6c7d.chunk.js",
+    "main.js.map": "/roniartasitinjak/react-tutorial/static/js/main.d0bc6c7d.chunk.js.map",
+    "runtime-main.js": "/roniartasitinjak/react-tutorial/static/js/runtime-main.fe3c5fd8.js",
+    "runtime-main.js.map": "/roniartasitinjak/react-tutorial/static/js/runtime-main.fe3c5fd8.js.map",
+    "static/js/2.09bcc6aa.chunk.js": "/roniartasitinjak/react-tutorial/static/js/2.09bcc6aa.chunk.js",
+    "static/js/2.09bcc6aa.chunk.js.map": "/roniartasitinjak/react-tutorial/static/js/2.09bcc6aa.chunk.js.map",
+    "index.html": "/roniartasitinjak/react-tutorial/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/roniartasitinjak/react-tutorial/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.09bcc6aa.chunk.js.LICENSE.txt": "/roniartasitinjak/react-tutorial/static/js/2.09bcc6aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe3c5fd8.js",
+    "static/js/2.09bcc6aa.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.d0bc6c7d.chunk.js"
+  ]
+}
